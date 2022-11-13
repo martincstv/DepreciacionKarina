@@ -1,0 +1,66 @@
+D:\Depreciacion\Depreciacion\bin\Debug\Depreciacion.exe.config
+D:\Depreciacion\Depreciacion\bin\Debug\Depreciacion.exe
+D:\Depreciacion\Depreciacion\bin\Debug\Depreciacion.pdb
+D:\Depreciacion\Depreciacion\obj\Debug\Depreciacion.csproj.AssemblyReference.cache
+D:\Depreciacion\Depreciacion\obj\Debug\Depreciacion.csproj.SuggestedBindingRedirects.cache
+D:\Depreciacion\Depreciacion\obj\Debug\Depreciacion.Form1.resources
+D:\Depreciacion\Depreciacion\obj\Debug\Depreciacion.Properties.Resources.resources
+D:\Depreciacion\Depreciacion\obj\Debug\Depreciacion.csproj.GenerateResource.cache
+D:\Depreciacion\Depreciacion\obj\Debug\Depreciacion.csproj.CoreCompileInputs.cache
+D:\Depreciacion\Depreciacion\obj\Debug\Depreciacion.exe
+D:\Depreciacion\Depreciacion\obj\Debug\Depreciacion.pdb
+C:\Users\jlasc\Desktop\SEXTO\Archivos basura\Depreciacion\Depreciacion\bin\Debug\Depreciacion.exe.config
+C:\Users\jlasc\Desktop\SEXTO\Archivos basura\Depreciacion\Depreciacion\bin\Debug\Depreciacion.exe
+C:\Users\jlasc\Desktop\SEXTO\Archivos basura\Depreciacion\Depreciacion\bin\Debug\Depreciacion.pdb
+C:\Users\jlasc\Desktop\SEXTO\Archivos basura\Depreciacion\Depreciacion\obj\Debug\Depreciacion.csproj.AssemblyReference.cache
+C:\Users\jlasc\Desktop\SEXTO\Archivos basura\Depreciacion\Depreciacion\obj\Debug\Depreciacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\jlasc\Desktop\SEXTO\Archivos basura\Depreciacion\Depreciacion\obj\Debug\Depreciacion.Form1.resources
+C:\Users\jlasc\Desktop\SEXTO\Archivos basura\Depreciacion\Depreciacion\obj\Debug\Depreciacion.Properties.Resources.resources
+C:\Users\jlasc\Desktop\SEXTO\Archivos basura\Depreciacion\Depreciacion\obj\Debug\Depreciacion.csproj.GenerateResource.cache
+C:\Users\jlasc\Desktop\SEXTO\Archivos basura\Depreciacion\Depreciacion\obj\Debug\Depreciacion.csproj.CoreCompileInputs.cache
+C:\Users\jlasc\Desktop\SEXTO\Archivos basura\Depreciacion\Depreciacion\obj\Debug\Depreciacion.exe
+C:\Users\jlasc\Desktop\SEXTO\Archivos basura\Depreciacion\Depreciacion\obj\Debug\Depreciacion.pdb
+C:\Users\KARINA\Desktop\help\Depreciacion\Depreciacion\bin\Debug\Depreciacion.exe.config
+C:\Users\KARINA\Desktop\help\Depreciacion\Depreciacion\bin\Debug\Depreciacion.exe
+C:\Users\KARINA\Desktop\help\Depreciacion\Depreciacion\bin\Debug\Depreciacion.pdb
+C:\Users\KARINA\Desktop\help\Depreciacion\Depreciacion\obj\Debug\Depreciacion.csproj.AssemblyReference.cache
+C:\Users\KARINA\Desktop\help\Depreciacion\Depreciacion\obj\Debug\Depreciacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\KARINA\Desktop\help\Depreciacion\Depreciacion\obj\Debug\Depreciacion.Form1.resources
+C:\Users\KARINA\Desktop\help\Depreciacion\Depreciacion\obj\Debug\Depreciacion.Properties.Resources.resources
+C:\Users\KARINA\Desktop\help\Depreciacion\Depreciacion\obj\Debug\Depreciacion.csproj.GenerateResource.cache
+C:\Users\KARINA\Desktop\help\Depreciacion\Depreciacion\obj\Debug\Depreciacion.csproj.CoreCompileInputs.cache
+C:\Users\KARINA\Desktop\help\Depreciacion\Depreciacion\obj\Debug\Depreciacion.exe
+C:\Users\KARINA\Desktop\help\Depreciacion\Depreciacion\obj\Debug\Depreciacion.pdb
+C:\Users\dev79\OneDrive\Escritorio\Depreciacion\Depreciacion\bin\Debug\Depreciacion.exe.config
+C:\Users\dev79\OneDrive\Escritorio\Depreciacion\Depreciacion\bin\Debug\Depreciacion.exe
+C:\Users\dev79\OneDrive\Escritorio\Depreciacion\Depreciacion\bin\Debug\Depreciacion.pdb
+C:\Users\dev79\OneDrive\Escritorio\Depreciacion\Depreciacion\obj\Debug\Depreciacion.csproj.AssemblyReference.cache
+C:\Users\dev79\OneDrive\Escritorio\Depreciacion\Depreciacion\obj\Debug\Depreciacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\dev79\OneDrive\Escritorio\Depreciacion\Depreciacion\obj\Debug\Depreciacion.Form1.resources
+C:\Users\dev79\OneDrive\Escritorio\Depreciacion\Depreciacion\obj\Debug\Depreciacion.Properties.Resources.resources
+C:\Users\dev79\OneDrive\Escritorio\Depreciacion\Depreciacion\obj\Debug\Depreciacion.csproj.GenerateResource.cache
+C:\Users\dev79\OneDrive\Escritorio\Depreciacion\Depreciacion\obj\Debug\Depreciacion.csproj.CoreCompileInputs.cache
+C:\Users\dev79\OneDrive\Escritorio\Depreciacion\Depreciacion\obj\Debug\Depreciacion.exe
+C:\Users\dev79\OneDrive\Escritorio\Depreciacion\Depreciacion\obj\Debug\Depreciacion.pdb
+C:\Users\dev79\OneDrive\Escritorio\Depreciacion_FuncionandoTodo\Depreciacion\bin\Debug\Depreciacion.exe.config
+C:\Users\dev79\OneDrive\Escritorio\Depreciacion_FuncionandoTodo\Depreciacion\bin\Debug\Depreciacion.exe
+C:\Users\dev79\OneDrive\Escritorio\Depreciacion_FuncionandoTodo\Depreciacion\bin\Debug\Depreciacion.pdb
+C:\Users\dev79\OneDrive\Escritorio\Depreciacion_FuncionandoTodo\Depreciacion\obj\Debug\Depreciacion.csproj.AssemblyReference.cache
+C:\Users\dev79\OneDrive\Escritorio\Depreciacion_FuncionandoTodo\Depreciacion\obj\Debug\Depreciacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\dev79\OneDrive\Escritorio\Depreciacion_FuncionandoTodo\Depreciacion\obj\Debug\Depreciacion.Form1.resources
+C:\Users\dev79\OneDrive\Escritorio\Depreciacion_FuncionandoTodo\Depreciacion\obj\Debug\Depreciacion.Properties.Resources.resources
+C:\Users\dev79\OneDrive\Escritorio\Depreciacion_FuncionandoTodo\Depreciacion\obj\Debug\Depreciacion.csproj.GenerateResource.cache
+C:\Users\dev79\OneDrive\Escritorio\Depreciacion_FuncionandoTodo\Depreciacion\obj\Debug\Depreciacion.csproj.CoreCompileInputs.cache
+C:\Users\dev79\OneDrive\Escritorio\Depreciacion_FuncionandoTodo\Depreciacion\obj\Debug\Depreciacion.exe
+C:\Users\dev79\OneDrive\Escritorio\Depreciacion_FuncionandoTodo\Depreciacion\obj\Debug\Depreciacion.pdb
+C:\Users\dev79\OneDrive\Escritorio\Depreciacion_Final_Me_La_Saco\Depreciacion\bin\Debug\Depreciacion.exe.config
+C:\Users\dev79\OneDrive\Escritorio\Depreciacion_Final_Me_La_Saco\Depreciacion\bin\Debug\Depreciacion.exe
+C:\Users\dev79\OneDrive\Escritorio\Depreciacion_Final_Me_La_Saco\Depreciacion\bin\Debug\Depreciacion.pdb
+C:\Users\dev79\OneDrive\Escritorio\Depreciacion_Final_Me_La_Saco\Depreciacion\obj\Debug\Depreciacion.csproj.AssemblyReference.cache
+C:\Users\dev79\OneDrive\Escritorio\Depreciacion_Final_Me_La_Saco\Depreciacion\obj\Debug\Depreciacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\dev79\OneDrive\Escritorio\Depreciacion_Final_Me_La_Saco\Depreciacion\obj\Debug\Depreciacion.Form1.resources
+C:\Users\dev79\OneDrive\Escritorio\Depreciacion_Final_Me_La_Saco\Depreciacion\obj\Debug\Depreciacion.Properties.Resources.resources
+C:\Users\dev79\OneDrive\Escritorio\Depreciacion_Final_Me_La_Saco\Depreciacion\obj\Debug\Depreciacion.csproj.GenerateResource.cache
+C:\Users\dev79\OneDrive\Escritorio\Depreciacion_Final_Me_La_Saco\Depreciacion\obj\Debug\Depreciacion.csproj.CoreCompileInputs.cache
+C:\Users\dev79\OneDrive\Escritorio\Depreciacion_Final_Me_La_Saco\Depreciacion\obj\Debug\Depreciacion.exe
+C:\Users\dev79\OneDrive\Escritorio\Depreciacion_Final_Me_La_Saco\Depreciacion\obj\Debug\Depreciacion.pdb
